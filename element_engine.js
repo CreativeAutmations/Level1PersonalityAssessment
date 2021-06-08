@@ -45,7 +45,7 @@ var result_template =
 
 <td style="color: white; font-size: medium; background-color:red; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
 
-Mover (SP-Red) Personality Style 
+Personality Style: Mover
 <br>Core Value: Freedom
 <br>The Mover personality style is courageous, exploratory, and playful. 
 Movers seek action and adventure
@@ -62,7 +62,7 @@ They change course as often as is needed and aren't likely to let bumps in the r
 <td style="color: white; background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{green}}</td>
 
 <td style="color: white; font-size: medium; background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
-Personality Style: Thinker (NT-Green) 
+Personality Style: Thinker
 <br>Core Value: Competency
 <br>The Thinker personality style is curious, logical, and self-sufficient. 
 Thinkers seek clarity and knowledge. 
@@ -78,7 +78,7 @@ They need time to think before making decisions. They can be fiercely independen
 <td style="color: white; background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{blue}}</td>
 
 <td style="color: white; font-size: medium; background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
-Personality Style: Connector (NF-Blue)  
+Personality Style: Connector
 <br>Core Value: Relationship
 <br>The Connector personality style is considerate, cooperative, and encouraging. 
 Connectors seek harmony and personal connection. 
@@ -94,8 +94,8 @@ Connectors naturally interact with others and connect meaning to events. They ex
 
 
 <td style="color: black; font-size: medium; background-color:yellow; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
-Personality Style: Planner (Si-Gold)  
-<br>Core Value: Responsibility
+<strong>Personality Style:</strong> Planner
+<br><strong>Core Value:</strong> Responsibility
 <br>The Planner personality style is organized, prepared, and dependable. Planners seek order and fairness. 
 They crave consistency and having things in their place. 
 Planners are naturally able to distinguish right from wrong. 
