@@ -41,15 +41,15 @@ var result_template =
 `
 <table style="font-family: arial, sans-serif; border-collapse: collapse; width: 80%;">
 <tr>
-<td style="background-color:red; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{red}}</td>
-<td style="background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{green}}</td>
-<td style="background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{blue}}</td>
-<td style="background-color:yellow; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{yellow}}</td>
+<td style="color: white; background-color:red; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{red}}</td>
+<td style="color: white; background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{green}}</td>
+<td style="color: white; background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{blue}}</td>
+<td style="color: black; background-color:yellow; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{yellow}}</td>
 </tr>
 <tr>
 
 
-<td style="background-color:red; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
+<td style="color: white; font-size: medium; background-color:red; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
 
 Mover (SP-Red) Personality Style 
 Core Value: Freedom
@@ -61,7 +61,7 @@ They automatically find the fastest way to do things and make them fun.
 They change course as often as is needed and aren't likely to let bumps in the road slow them down.
 
 </td>
-<td style="background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
+<td style="color: white; font-size: medium; background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
 Thinker (NT-Green) Personality Style
 Core Value: Competency
 The Thinker personality style is curious, logical, and self-sufficient. 
@@ -70,7 +70,7 @@ They prefer to make calculated decisions.
 Thinkers explore all aspects of an issue and can't help but suggest new ways of doing things. 
 They need time to think before making decisions. They can be fiercely independent and value their privacy
 </td>
-<td style="background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
+<td style="color: white; font-size: medium; background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
 Connector (NF-Blue) Personality Style Core Value: Relationship
 The Connector personality style is considerate, cooperative, and encouraging. 
 Connectors seek harmony and personal connection. 
@@ -78,7 +78,7 @@ They prefer to make decisions that feel good and are in alignment with their val
 Connectors naturally interact with others and connect meaning to events. They excel at recognizing strengths in others and place a high importance on person growth. 
 
 </td>
-<td style="background-color:yellow; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
+<td style="color: black; font-size: medium; background-color:yellow; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
 Planner (Si-Gold) Personality Style 
 Core Value: Responsibility
 The Planner personality style is organized, prepared, and dependable. Planners seek order and fairness. 
