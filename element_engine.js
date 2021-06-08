@@ -27,7 +27,7 @@ var element_template =
 <p>
 <br> <br> <br>
 <button onclick="ShowResults()">Show Results</button>
-<br> <br> <br>
+<br> 
 </p>
 
 
