@@ -42,7 +42,7 @@ Compare all 4 boxes in each row.
 <div class="col-md-12">
 <p>
 <br> <br> <br>
-<button onclick="ShowResults()">Show Results</button>
+<button onclick="ShowResults()" style="float: right;">Show Results</button>
 <br> 
 
 <div id="alertcontainer"></div>

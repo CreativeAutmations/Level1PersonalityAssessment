@@ -207,6 +207,17 @@ function ShowTest()
     document.getElementById("element_container").innerHTML = elements_html;
     $("#element_container").show();
     $('#element_container').scrollTop();
+
+    var maxheight = 0;
+    $( ".mybox" ).each(function( index ) {
+    if ( maxheight < $( this ).height() )
+        {
+            maxheight = $( this ).height() ;
+        }
+    });
+    
+    $( ".mybox" ).height(maxheight );
+    
 }
 
 function ShowResults()
