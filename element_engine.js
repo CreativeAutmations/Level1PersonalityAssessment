@@ -46,8 +46,8 @@ var result_template =
 <td style="color: white; font-size: medium; background-color:red; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
 
 Mover (SP-Red) Personality Style 
-Core Value: Freedom
-The Mover personality style is courageous, exploratory, and playful. 
+<br>Core Value: Freedom
+<br>The Mover personality style is courageous, exploratory, and playful. 
 Movers seek action and adventure
 They crave variety and enjoy improvising.
 Movers are good at thinking on their feet.
@@ -62,9 +62,9 @@ They change course as often as is needed and aren't likely to let bumps in the r
 <td style="color: white; background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{green}}</td>
 
 <td style="color: white; font-size: medium; background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
-Thinker (NT-Green) Personality Style
-Core Value: Competency
-The Thinker personality style is curious, logical, and self-sufficient. 
+Personality Style: Thinker (NT-Green) 
+<br>Core Value: Competency
+<br>The Thinker personality style is curious, logical, and self-sufficient. 
 Thinkers seek clarity and knowledge. 
 They prefer to make calculated decisions. 
 Thinkers explore all aspects of an issue and can't help but suggest new ways of doing things. 
@@ -78,8 +78,9 @@ They need time to think before making decisions. They can be fiercely independen
 <td style="color: white; background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{blue}}</td>
 
 <td style="color: white; font-size: medium; background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
-Connector (NF-Blue) Personality Style Core Value: Relationship
-The Connector personality style is considerate, cooperative, and encouraging. 
+Personality Style: Connector (NF-Blue)  
+<br>Core Value: Relationship
+<br>The Connector personality style is considerate, cooperative, and encouraging. 
 Connectors seek harmony and personal connection. 
 They prefer to make decisions that feel good and are in alignment with their values. 
 Connectors naturally interact with others and connect meaning to events. They excel at recognizing strengths in others and place a high importance on person growth. 
@@ -93,9 +94,9 @@ Connectors naturally interact with others and connect meaning to events. They ex
 
 
 <td style="color: black; font-size: medium; background-color:yellow; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
-Planner (Si-Gold) Personality Style 
-Core Value: Responsibility
-The Planner personality style is organized, prepared, and dependable. Planners seek order and fairness. 
+Personality Style: Planner (Si-Gold)  
+<br>Core Value: Responsibility
+<br>The Planner personality style is organized, prepared, and dependable. Planners seek order and fairness. 
 They crave consistency and having things in their place. 
 Planners are naturally able to distinguish right from wrong. 
 They like to keep their personal space well-tended and pay attention to details. 
