@@ -1,8 +1,24 @@
 var element_template =
 `
 <div class="row">
+<div class="instructions col-md-12">
+<p>
+<h1>Instructions:</h1>																
+Compare all 4 boxes in each row. 																		
+<br>Do not analyze each word; just get a sense of each box. 																		
+<br>Score each of the four boxes in each row from most to least as it describes you: 																		
+<ul>
+<li>Least Likely</li>
+<li>Somewhat likely	</li>
+<li>A lot likely</li>	
+<li>Most Likely</li>
+</ul>
+</p>
+</div>
+</div>
+<div class="row">
 {{#qualities_container}}
-    <div class="mybox col-md-4">
+    <div class="mybox col-md-3">
 
     <ul>
         {{#newqualities}}
@@ -23,7 +39,7 @@ var element_template =
     </div>
 {{/qualities_container}}
 
-<div class="col-md-4">
+<div class="col-md-12">
 <p>
 <br> <br> <br>
 <button onclick="ShowResults()">Show Results</button>

@@ -153,8 +153,6 @@ element.qualities.push("Action");
 element.qualities.push("Challenges ");
 element.qualities.push("Competitive ");
 element.qualities.push("Impetuous");
-element.qualities.push("");
-element.qualities.push("");
 QualitySet.push(element);
 var element = {};
 element.qualities = []; element.name = "L";
