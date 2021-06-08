@@ -237,7 +237,7 @@ function ShowResults()
         code = color_groups[i].code;
         for (j = 0; j < color_groups[i].values.length; j++)
         {
-            if ( value < 0 )
+            if ( value < 1 )
             {
                // alert("Please provide your assessment for all sections");
                $("#alertcontainer").html(`<div class="alert alert-danger alert-dismissible show" role="alert">
