@@ -239,7 +239,13 @@ function ShowResults()
         {
             if ( value < 1 )
             {
-                alert("Please provide your assessment for all sections");
+               // alert("Please provide your assessment for all sections");
+               $("#alertcontainer").html(`<div class="alert alert-danger alert-dismissible show" role="alert">
+               Please provide your assessment for all sections
+               <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+               <span aria-hidden="true">&times;</span>
+               </button></div>`);
+
                 return;
             } 
             var boxid  = color_groups[i].values[j];

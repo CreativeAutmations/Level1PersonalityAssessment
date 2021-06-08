@@ -28,6 +28,8 @@ var element_template =
 <br> <br> <br>
 <button onclick="ShowResults()">Show Results</button>
 <br> 
+
+<div id="alertcontainer"></div>
 </p>
 
 
