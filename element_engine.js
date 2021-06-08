@@ -43,10 +43,10 @@ var result_template =
 <tr>
 <td style="color: white; background-color:red; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{red}}</td>
 
-<td style="color: white; font-size: medium; background-color:red; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
+<td style="color: white; font-size: medium; background-color:red; border: 1px solid #dddddd;  text-align: left; padding: 8px;">
 
-Personality Style: Mover
-<br>Core Value: Freedom
+<strong>Personality Style: Mover</strong>
+<br><strong>Core Value: Freedom</strong>
 <br>The Mover personality style is courageous, exploratory, and playful. 
 Movers seek action and adventure
 They crave variety and enjoy improvising.
@@ -61,9 +61,9 @@ They change course as often as is needed and aren't likely to let bumps in the r
 
 <td style="color: white; background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{green}}</td>
 
-<td style="color: white; font-size: medium; background-color:green; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
-Personality Style: Thinker
-<br>Core Value: Competency
+<td style="color: white; font-size: medium; background-color:green; border: 1px solid #dddddd;  text-align: left; padding: 8px;">
+<strong>Personality Style: Thinker</strong>
+<br><strong>Core Value: Competency</strong>
 <br>The Thinker personality style is curious, logical, and self-sufficient. 
 Thinkers seek clarity and knowledge. 
 They prefer to make calculated decisions. 
@@ -77,9 +77,9 @@ They need time to think before making decisions. They can be fiercely independen
 
 <td style="color: white; background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{blue}}</td>
 
-<td style="color: white; font-size: medium; background-color:blue; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
-Personality Style: Connector
-<br>Core Value: Relationship
+<td style="color: white; font-size: medium; background-color:blue; border: 1px solid #dddddd;  text-align: left; padding: 8px;">
+<strong>Personality Style: Connector</strong>
+<br><strong>Core Value: Relationship</strong>
 <br>The Connector personality style is considerate, cooperative, and encouraging. 
 Connectors seek harmony and personal connection. 
 They prefer to make decisions that feel good and are in alignment with their values. 
@@ -93,9 +93,9 @@ Connectors naturally interact with others and connect meaning to events. They ex
 <td style="color: black; background-color:yellow; border: 1px solid #dddddd;  text-align: center; padding: 8px;">{{yellow}}</td>
 
 
-<td style="color: black; font-size: medium; background-color:yellow; border: 1px solid #dddddd;  text-align: center; padding: 8px;">
-<strong>Personality Style:</strong> Planner
-<br><strong>Core Value:</strong> Responsibility
+<td style="color: black; font-size: medium; background-color:yellow; border: 1px solid #dddddd;  text-align: left; padding: 8px;">
+<strong>Personality Style: Planner</strong>
+<br><strong>Core Value: Responsibility</strong>
 <br>The Planner personality style is organized, prepared, and dependable. Planners seek order and fairness. 
 They crave consistency and having things in their place. 
 Planners are naturally able to distinguish right from wrong. 
