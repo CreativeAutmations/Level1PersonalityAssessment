@@ -27,7 +27,7 @@ Compare all 4 boxes in each row.
         </li>
         {{/newqualities}}
     </ul>
-    <select id="{{name}}">
+    <select id="{{name}}" class="select-boxes">
         <option value="0">Your Choice</option>
         <option value="1">Least Likely</option>
         <option value="2">Somewhat likely</option>

@@ -217,7 +217,6 @@ function ShowTest()
     });
     
     $( ".mybox" ).height(maxheight );
-    
 }
 
 function ShowResults()
