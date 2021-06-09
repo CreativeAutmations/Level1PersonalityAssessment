@@ -4,7 +4,7 @@ var element_template =
 <div class="instructions col-md-12">
 <p>
 <h1>Instructions:</h1>																
-Compare all 4 boxes in each row. 																		
+Pay attention to each box. 																		
 <br>Do not analyze each word; just get a sense of each box. 																		
 <br>Score each of the four boxes in each row from most to least as it describes you: 																		
 <ul>
@@ -21,13 +21,13 @@ Compare all 4 boxes in each row.
     <div class="mybox col-md-3">
 
     <ul>
-        {{#newqualities}}
+        {{#qualities}}
         <li>
         {{qname}}}}
         </li>
-        {{/newqualities}}
+        {{/qualities}}
     </ul>
-    <select id="{{name}}" class="select-boxes">
+    <select id="{{boxname}}" class="select-boxes">
         <option value="0">Your Choice</option>
         <option value="1">Least Likely</option>
         <option value="2">Somewhat likely</option>
@@ -44,7 +44,6 @@ Compare all 4 boxes in each row.
 <br> <br> <br>
 <button onclick="ShowResults()" style="float: right;">Show Results</button>
 <br> 
-
 <div id="alertcontainer"></div>
 </p>
 
