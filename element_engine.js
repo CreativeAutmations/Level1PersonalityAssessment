@@ -41,9 +41,9 @@ Pay attention to each box.
 
 <div class="col-md-12">
 <p>
-<br> <br> <br>
+<br>
 <button onclick="ShowResults()" style="float: right;">Show Results</button>
-<br> 
+<br>
 <div id="alertcontainer"></div>
 </p>
 
